@@ -1,39 +1,32 @@
-<header>
-  <link rel="stylesheet" type="text/css" href="https://github.com/cm66Work/cm66Work/blob/db3cbcf4c6b892b1c813a4fd004de2de29d90aa6/Assets/style.css">
-</header>
-<body>
-  <div class="wrapper" align='center'>
-    <img align="right" width="20%" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/Caffinara%20Player.png" />
-      <div class="text-box" align='left' width='60%'>
-        <h2> ☕ Hi, I'm Connor 👋 </h2>
-        <p>💻 I am an indie game developer, who loves to design and build simple games or tools for my many unity projects!</p>
-        <p>📖 Currently taking a deep dive into custom editor tool development within Unity.</p>
-        <p>💻 🤖 On the side I love to experiment with AI learning and AI generated content, which you will find throughout my work including my profile icons and images.</p>
-      </div>
-  </div>
-</body>
-
-
-
-<br clear="left" style="margin:16px;"/>
-
-### Languages of focus
-
-<div text-align: center align='center'>
-  <img align='left' src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align='left' src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
-
-<br clear="left" style="margin:16px;"/>
-
-### Game engine knowledge
+# ☕ Hi, I'm Connor 👋
 
 <div align='center'>
-  <img align='left' src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-  <img align='left' src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
+  <img align='right' width="30%" src="https://github.com/cm66Work/cm66Work/blob/868db8741fc922775cac34c0f9dd5460fba71238/Assets/Profile1.png" />
+  <div align='left' width='60%'>
+    <p>💻 I am an indie game developer, who loves to design and build simple games or tools for my many unity projects!</p>
+    <p>📖 Currently taking a deep dive into custom editor tool development within Unity.</p>
+    <p>💻 🤖 On the side I love to experiment with AI learning and AI generated content, which you will find throughout my work including my profile icons and images.</p>
+  </div>
 </div>
 
-<br clear="left" style="margin:20px;"/>
+<div>
+  
+  <div>
+    <h3>🔥Passionate languages🔥</h3>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py&theme=dark">
+  </div>
+  
+  <div>
+    <h3 text-align: center >🧰 Skill set 🖱️</h3>
+    <img src="https://skillicons.dev/icons?i=unity,godot,blender,androidstudio,git&theme=dark">
+  </div>
+  
+</div>
+
+
+
+
+<br clear="left"/>
 
 ## Current Projects - Caffinara
 
@@ -71,9 +64,9 @@ The game was inspired by my time working in a coffee shop after Uni.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cm66Work&repo=Open-Event-System&theme=tokyonight" />
 </a>
 
-<br clear="left" style="margin:20px;"/>
+<br clear="left"/>
 
-## Extra Stats
+## Github Stats
 
 <div align='center'>
   <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=cm66Work&hide=contribs,issues&rank_icon=github&show_icons=true&theme=tokyonight">
