@@ -1,12 +1,19 @@
-<div class="wrapper" align='center'>
-  <img align="right" width="20%" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/Caffinara%20Player.png" />
-  <div class="text-box" align='left' width='60%'>
-    <h2> ☕ Hi, I'm Connor 👋 </h2>
-    <p>💻 I am an indie game developer, who loves to design and build simple games or tools for my many unity projects!</p>
-    <p>📖 Currently taking a deep dive into custom editor tool development within Unity.</p>
-    <p>💻 🤖 On the side I love to experiment with AI learning and AI generated content, which you will find throughout my work including my profile icons and images.</p>
+<header>
+  <link rel="stylesheet" type="text/css" href="https://github.com/cm66Work/cm66Work/blob/db3cbcf4c6b892b1c813a4fd004de2de29d90aa6/Assets/style.css">
+</header>
+<body>
+  <div class="wrapper" align='center'>
+    <img align="right" width="20%" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/Caffinara%20Player.png" />
+      <div class="text-box" align='left' width='60%'>
+        <h2> ☕ Hi, I'm Connor 👋 </h2>
+        <p>💻 I am an indie game developer, who loves to design and build simple games or tools for my many unity projects!</p>
+        <p>📖 Currently taking a deep dive into custom editor tool development within Unity.</p>
+        <p>💻 🤖 On the side I love to experiment with AI learning and AI generated content, which you will find throughout my work including my profile icons and images.</p>
+      </div>
   </div>
-</div>
+</body>
+
+
 
 <br clear="left" style="margin:16px;"/>
 
