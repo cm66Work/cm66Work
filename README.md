@@ -17,7 +17,7 @@
   </div>
   
   <div>
-    <h3 text-align: center >🧰 Skill set 🖱️</h3>
+    <h3 text-align: center >🧰 Skill Set 🖱️</h3>
     <img src="https://skillicons.dev/icons?i=unity,godot,blender,androidstudio,git&theme=dark">
   </div>
   
