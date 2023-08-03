@@ -29,7 +29,9 @@
 <br clear="left"/>
 
 ## Current Projects - Caffeinara
-<p align="left">Taking what I learnt from my Coffee Bean demo project I have now started working on a small indie game centered around Lofi and coffee brewing.</p>
+Taking what I learnt from my Coffee Bean demo project I have now started working on a small indie game centered around Lofi and coffee brewing.
+
+### Current Concept Art:
 <div>
   <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/Caffinara%20Player.png" />
   <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/355f964d419995534c11085da955e946cf496ec4/Assets/Coffee%20Machine.png" />
