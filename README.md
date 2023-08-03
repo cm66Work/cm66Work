@@ -12,7 +12,7 @@
 <div>
   
   <div>
-    <h3>🔥Passionate languages🔥</h3>
+    <h3>🔥Passionate Languages🔥</h3>
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,py&theme=dark">
   </div>
   
