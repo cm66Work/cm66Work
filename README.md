@@ -41,7 +41,7 @@ Taking what I learnt from my Coffee Bean demo project I have now started working
 
 <br clear="left"/>
 
-## Finished Projects🎮
+## Other Projects🎮
 ### Momentum Rush
 <a href="https://connormarshall.myportfolio.com/momentum-rush" text-align: center>
   <img align="right" src="https://github.com/cm66Work/cm66Work/blob/main/Assets/MyAndoind%20Game.png" />
