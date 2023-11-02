@@ -38,10 +38,18 @@ Taking what I learnt from my Coffee Bean demo project I have now started working
   <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/355f964d419995534c11085da955e946cf496ec4/Assets/Printer%20Mouse.png" />
 </div>
 
-
 <br clear="left"/>
 
 ## Other Projects🎮
+
+### Paddle Clash!
+<a href="https://www.youtube.com/watch?v=r-vbkmg5Lcc" text-align: center>
+  <img align="right" src="https://github.com/cm66Work/cm66Work/blob/f9b52cb021185187007ab8d87f4dfabea5e8b853/Assets/Paddle%20Clash%20app%20store%20and%20Play%20Store.png" />
+</a>
+<p> A fun casual mobile game based on the Air Hockey game that you find in archades. Releasing soon for both the Play store and App store. </p>
+
+<br clear="left"/>
+
 ### Momentum Rush
 <a href="https://connormarshall.myportfolio.com/momentum-rush" text-align: center>
   <img align="right" src="https://github.com/cm66Work/cm66Work/blob/main/Assets/MyAndoind%20Game.png" />
