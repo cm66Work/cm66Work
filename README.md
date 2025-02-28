@@ -1,4 +1,4 @@
-# ☕ Hi, I'm Connor 👋
+# ☕ Hi, I'm Erica 👋
 
 <div align='center'>
   <img align='right' width="30%" src="https://github.com/cm66Work/cm66Work/blob/868db8741fc922775cac34c0f9dd5460fba71238/Assets/Profile1.png" />
