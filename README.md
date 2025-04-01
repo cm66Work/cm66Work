@@ -23,12 +23,20 @@
   
 </div>
 
+<br clear="left"/>
 
+# Coding Corner
+Coding-Corner is a repo is a collection of small projects that I like to do in my free time. Currently I am learning how to use RayLib and get more familiar with C++. Bellow are some of the 1 hour projects that I have created in the last few weeks.
+<div>
+  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/60766539c740a0ca2e841ce5725a778db870848d/Assets/Snake.png" />
+  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/60766539c740a0ca2e841ce5725a778db870848d/Assets/Tetris.png" />
+  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/60766539c740a0ca2e841ce5725a778db870848d/Assets/GameofLife.png" />
+</div>
 
 
 <br clear="left"/>
 
-## Current Projects - Caffeinara
+# Current Projects - Caffeinara
 Taking what I learnt from my Coffee Bean demo project I have now started working on a small indie game centered around Lofi and coffee brewing.
 
 ### Current Concept Art:
@@ -42,7 +50,7 @@ Taking what I learnt from my Coffee Bean demo project I have now started working
 
 ## Other Projects🎮
 
-### Paddle Clash!
+## Paddle Clash!
 <a href="https://www.youtube.com/watch?v=r-vbkmg5Lcc" text-align: center>
   <img align="right" src="https://github.com/cm66Work/cm66Work/blob/fa75824e92072b37062095580654a708634cd4e1/Assets/Paddle%20Clash%20app%20store%20and%20Play%20Store.png" />
 </a>
@@ -50,7 +58,7 @@ Taking what I learnt from my Coffee Bean demo project I have now started working
 
 <br clear="left"/>
 
-### Momentum Rush
+## Momentum Rush
 <a href="https://connormarshall.myportfolio.com/momentum-rush" text-align: center>
   <img align="right" src="https://github.com/cm66Work/cm66Work/blob/main/Assets/MyAndoind%20Game.png" />
 </a>
@@ -59,7 +67,7 @@ The project was created as a learning experience for me, as I have never publish
 
 <br clear="left"/>
 
-### Coffee Bean Demo
+## Coffee Bean Demo
 <a href="https://connormarshall.myportfolio.com/coffee-bean" text-align: center>
 <img align="right" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/CoffeeBean%20demo.png" />
 </a>
@@ -70,7 +78,7 @@ The game was inspired by my time working in a coffee shop after Uni.
 
 <br clear="left"/>
 
-## Latest Experiments🧪
+# Latest Experiments🧪
 <a href="https://github.com/cm66Work/DigitalHuman-with-OpenAI" text-align: center >
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cm66Work&repo=DigitalHuman-with-OpenAI&theme=tokyonight" />
 </a>
@@ -80,7 +88,7 @@ The game was inspired by my time working in a coffee shop after Uni.
 
 <br clear="left"/>
 
-## Github Stats
+# Github Stats
 
 <div align='center'>
   <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=cm66Work&hide=contribs,issues&rank_icon=github&show_icons=true&theme=tokyonight">
