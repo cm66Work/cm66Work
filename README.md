@@ -26,7 +26,7 @@
 <br clear="left"/>
 
 # Coding Corner
-Coding-Corner is a repo is a collection of small projects that I like to do in my free time. Currently I am learning how to use RayLib and get more familiar with C++. Bellow are some of the 1 hour projects that I have created in the last few weeks.
+Coding-Corner is a collection of small projects that I like to do in my free time. Currently I am learning how to use RayLib and get more familiar with C++. Bellow are some of the 1 hour projects that I have created in the last few weeks.
 <div>
   <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/60766539c740a0ca2e841ce5725a778db870848d/Assets/Snake.png" />
   <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/60766539c740a0ca2e841ce5725a778db870848d/Assets/Tetris.png" />
